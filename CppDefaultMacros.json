@@ -1,1 +1,3 @@
-TESTER=TRUE
+{
+  "TESTER": true
+}
